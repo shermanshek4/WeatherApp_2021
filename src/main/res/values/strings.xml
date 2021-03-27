@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="title_home">Home</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_weatherDetails">Weather Details</string>
+    <string name="cityName">HONG KONG</string>
+    <string name="celsius">28°C</string>
+    <string name="search">Search..</string>
+    <string name="dateAndTime">Monday | 24 Mar | 6:30pm</string>
+</resources>
